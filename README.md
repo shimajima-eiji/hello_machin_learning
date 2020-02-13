@@ -15,6 +15,9 @@ janomeが何なのか知っておいたほうがいいです。
 
 ## Level Up
 【初心者向け】Python・Janomeで学ぶ自然言語処理入門ハンズオンというイベントでかなり理解を深められました。
-[Liberal Arts for Tech](https://liberal-arts-for-tech.connpass.com/)さんのイベントでスキルアップしました。
+[Liberal Arts for Tech](https://liberal-arts-for-tech.connpass.com/)さんのイベントでスキルアップできると思います。
+イベントに参加するとどんな本を読めばいいとか、どうやって勉強すればいいとか色々教えてもらえるのでおすすめです。
+
+[簡易 Python コードで学ぶ、実践的自然言語処理入門](https://lib-arts.booth.pm/items/1655815)という本を使って理論を学び、本書の理論をソース付きで学べるようになっています。
 
 こういった事はいろんなコミュニティで活動されているので、自分にあった場所を探しましょう。
